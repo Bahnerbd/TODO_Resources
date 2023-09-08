@@ -1,0 +1,19 @@
+//// Articles
+http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+http://jalammar.github.io/illustrated-transformer/
+
+//// courses
+http://cs231n.stanford.edu/
+https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+https://www.coursera.org/learn/machine-learning?irclickid=R0uyG0w59xyPRbEVyvR1EXCVUkFU32z4eXY9wU0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c // Andrew Ng - Coursera
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html // Deep Learning with PyTorch: a 60 Minute Blitz
+
+
+//// fast.ai
+https://fast.ai/
+https://course.fast.ai/
+https://course.fast.ai/Lessons/part2.html
+
+//// Books/Papers:
+https://www.statlearning.com/         // An Introduction to Statistical Learning
+https://arxiv.org/pdf/1706.03762.pdf  // Attention Is All You Need
