@@ -7,13 +7,10 @@ http://jalammar.github.io/illustrated-transformer/
 
 http://cs231n.stanford.edu/<br>
 https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC<br>
-https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html // Deep Learning with PyTorch: a 60 Minute Blitz
-
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html // Deep Learning with PyTorch: a 60 Minute Blitz<br>
 #### Andrew Ng
-
 https://www.coursera.org/learn/machine-learning?irclickid=R0uyG0w59xyPRbEVyvR1EXCVUkFU32z4eXY9wU0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c<br>
 https://www.coursera.org/specializations/deep-learning?irclickid=R0uyG0w59xyPRbEVyvR1EXCVUkFU3w04eXY9wU0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c
-
 
 ## fast.ai
 
